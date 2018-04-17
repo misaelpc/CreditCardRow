@@ -14,5 +14,5 @@ Pod::Spec.new do |s|
     'CreditCardRow' => ['Sources/CreditCardCell.xib']
   }
   s.ios.frameworks = 'UIKit', 'Foundation'
-  s.dependency 'Eureka', '4.0.1'
+  s.dependency 'Eureka', '4.1.1'
 end
